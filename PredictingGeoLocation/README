@@ -1,0 +1,15 @@
+Predicting Geolocation using Machine Learning
+
+Localization is the task of determining the physical coordinates of a sensor node (or a group of sensor
+nodes) or the spatial relationships among objects. It comprises a set of techniques and mechanisms that
+allow a sensor to estimate its own location based on information gathered from the sensor’s environment.
+While the Global Positioning System (GPS) is undoubtedly the most well-known location-sensing system,
+it is not accessible in all environments (e.g., indoors or under dense foliage) and may incur resource costs
+unacceptable for resource-constrained wireless sensor networks (WSNs).
+In this work, we used WinPropTM software suite are provided by AWE Communications for extracting geo
+spatial information from simulation. The ProMan Propagation software package is designed to predict the
+path loss accurately between transmitter and receiver including all important parameters of the mobile
+radio channel. The ProMan (Network) software offers network planning modules for 2G/2.5G, 3G/B3G,
+WLAN, WiMAX networks. It offers Static network planning modules as well as dynamic network simulators
+We propose nonlinear polynomial regression as a machine learning method to obtain excellent results on
+predicting emitter location.
