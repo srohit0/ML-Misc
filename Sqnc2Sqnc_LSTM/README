@@ -1,0 +1,13 @@
+## Simple application of LSTM (Long short-term memory) using keras with tensorflow as backend.
+It trains LSTM network with sequence of numbers as shown in the picture below:
+
+                          |----------|
+                          |   LSTM   |
+21 34 55 89 144 233 377 =>|  Model   | => 610 987
+                          |----------|
+
+It was Developed and tested on google colab: https://colab.research.google.com
+Also test on centos 7 and windows 10.
+
+Credit: https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+Reference: amzn.to/2paZ53b
