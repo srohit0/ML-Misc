@@ -1,4 +1,4 @@
-# Selected projects on Machine Learning
+# Selected Projects on Machine Learning
 
 * [Credit Card Fraud Detection](https://github.com/srohit0/Misc/tree/master/FraudDetection)
 * [Mortgage Loan Defaulter Prediction](https://github.com/srohit0/Misc/tree/master/Loan%20Default%20Prediction)
