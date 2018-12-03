@@ -6,4 +6,4 @@
 * [Arbittrary Number Sequence Prediction using LTSM](https://github.com/srohit0/Misc/tree/master/Sqnc2Sqnc_LSTM)
 * [Exploratory Data Analysis for Business with Subscription Model](https://github.com/srohit0/Misc/tree/master/BusinessDataAnalysis)
 * [Simple Example of ML app (MNIST) Deployment in Google Cloud](https://github.com/srohit0/Misc/tree/master/MNIST_in_GCP)
-* [Speech to Text with deepspeech model in google colab](https://github.com/srohit0/Misc/blob/master/DeepSpeech%20To%20Text%20Using%20Google%20Colab.ipynb)
+* [Speech to Text with deepspeech model in google colab](https://github.com/srohit0/ML-Misc/blob/master/speechToText/DeepSpeech%20To%20Text%20Using%20Google%20Colab.ipynb)
