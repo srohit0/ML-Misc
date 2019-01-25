@@ -1,6 +1,6 @@
 # FCB Detection
 
-##IDENTIFYING VALIDITY OF TRANSACTIONS.
+## IDENTIFYING VALIDITY OF TRANSACTIONS.
 Objective of this work is to perform exploratory data analysis on the financial transaction provided in
 the form of excel spread sheet and identify suitability of machine learning algorithms and propose the
 one that is likely to produce an effective model in the long run.
